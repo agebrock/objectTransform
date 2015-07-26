@@ -5,13 +5,13 @@ Utility library to transform object a little faster.
 ## Install
 
 ```sh
-$ npm install @fc24/objectTransform --save 
+$ npm install objectTransform --save 
 ```
 
 
 ## Example
 ```js
-var ts = require('@fc24/objectTransform');
+var ts = require('objectTransform');
 
  var result =  ts.deep({'servername': 'pro.mac', upstreamPort: 7000, upstreamHost: '10.1.16.119', ws: true});
  
@@ -29,4 +29,4 @@ ts.flat(result);
 
 
 ## License
-2015 © Finanzchef24 
+2015 © Christoph Hagenbrock 

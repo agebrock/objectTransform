@@ -1,6 +1,18 @@
 {
-  "name": "@fc24/objectTransform",
+  "name": "objectTransform",
   "version": "0.0.1",
+  "description": "Helper functions to transform an object",
+  "author": {
+    "name": "Christoph Hagenbrock",
+    "email": "christoph.hagenbrock@googlemail.com"
+  },
+  "keywords": [
+    "object",
+    "transform",
+    "flat",
+    "deep"
+  ],
+
   "devDependencies": {
     "chai": "^2.3.0",
     "chai-as-promised": "^5.0.0",
