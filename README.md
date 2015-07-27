@@ -1,4 +1,4 @@
-#objectTransform
+#objecttransform
 
 Utility library to transform object a little faster. 
 
